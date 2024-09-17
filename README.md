@@ -13,7 +13,7 @@
 </div>
 
 **<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://github.com/AKS023" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/www.linkedin.com/in/amitks0302" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<p align="left"><a href="https://github.com/AKS023" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/amitks0302" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
  **<h3 align="left">Experienced Storage Engineer with a strong foundation in the IT and services industry, transitioning towards DevOps. Skilled in Storage Area Network (SAN), EMC Vplex and MetroNode, engineering, and disaster recovery, with a focus on automating infrastructure and optimizing workflows. Proficient in systems integration, continuous delivery, and leveraging DevOps practices to enhance operational efficiency. Adept at bridging the gap between development and operations to ensure seamless collaboration, improved scalability, and faster deployment cycles.</h3>**
 
